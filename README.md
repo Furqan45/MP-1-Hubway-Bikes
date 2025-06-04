@@ -1,6 +1,7 @@
 # Order Data Base Case Study
 
-![case_study_diagram](https://github.com/user-attachments/assets/d41437c2-6579-4c76-a1e8-343a0b5d0ad8)
+![Case Study](https://github.com/user-attachments/assets/a4389948-94f5-4370-b569-76de7867eab5)
+
 
 # INTRODUCTION
 In this case study, we analyze a comprehensive dataset from Hubway, a bike-sharing service, to uncover patterns in urban mobility and user behavior. The dataset includes over 1.5 million recorded trips and is structured into two interconnected tables: trips and stations. The analysis begins with the trips table, which captures essential details such as trip duration, start and end timestamps, start and end stations, bike ID, and user demographics including subscription type, zip code, birth year, and gender (when available).
